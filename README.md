@@ -2,7 +2,7 @@
 
 A standalone GitHub Pages presentation for [PRM Kit](https://github.com/CaptJack3/multiobjective-prm-kit).
 
-The website contains the project video, selected research images, a capability overview and links to the toolkit. The toolkit repository, its README and its releases are maintained separately. Access to the private toolkit repository is required to use those links.
+The website contains the project video, selected research images, a capability overview and links to the toolkit. The toolkit repository, its README and its releases are maintained separately. The toolkit repository, guides and release downloads are publicly accessible.
 
 ## Preview
 
