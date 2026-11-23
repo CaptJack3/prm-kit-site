@@ -1,0 +1,36 @@
+{
+  "source_repository": "https://github.com/CaptJack3/multiobjective-prm-kit",
+  "source_commit": "3be9a70195d2b7904214db65701d5b864bb20aed",
+  "assets": [
+    {
+      "file": "assets/kitchen.jpg",
+      "original": "examples/research_showcase/scenes/kitchen/preview.jpg",
+      "sha256": "3e7197ddc7cf51f57cdd4a043fbc279d5f722f66529badac81c0722e5aa3879c",
+      "bytes": 145410
+    },
+    {
+      "file": "assets/workbench.jpg",
+      "original": "examples/research_showcase/scenes/office/preview.jpg",
+      "sha256": "09e1a431828d8a6363b37660b3f967ae009020d993ad4475831a04e8a23efc76",
+      "bytes": 146666
+    },
+    {
+      "file": "assets/shelves.jpg",
+      "original": "examples/research_showcase/scenes/shelves/preview.jpg",
+      "sha256": "23e380edcf79fd9b70cb61ded07ea680ed87497f5fac2c0b8a09a0315a6ab2f8",
+      "bytes": 148352
+    },
+    {
+      "file": "assets/video-poster.jpg",
+      "original": "examples/research_showcase/scenes/kitchen/preference_routes/preview.jpg",
+      "sha256": "0184084db11548b4fd958c6b4032250ef0bee153c6474c93de527e55c9a42be3",
+      "bytes": 242472
+    },
+    {
+      "file": "assets/project-demo.mp4",
+      "original": "https://github.com/user-attachments/assets/331acb83-4525-439c-970d-568803ff2548",
+      "sha256": "c0f295607ffd1d3978d2b1fb8c114a7b4ba2b786f3bf5907927ae871c299190b",
+      "bytes": 9124553
+    }
+  ]
+}
